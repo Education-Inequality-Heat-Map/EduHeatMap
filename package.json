@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage":"https://education-inequality-heat-map.github.io/eduheatmap/",
+  "homepage":"https://Education-Inequality-Heat-Map.github.io/EduHeatMap/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
